@@ -8,7 +8,6 @@ Exercício 1 - Com base no diagrama de classes abaixo, implemente um projeto ori
         A classe abstrata Mensagem deve possuir um método abstrato Mensagem sendMessage(String); e
         Mensagem sendMessage(String) deve retornar a sua própria instância.
 
-<img src="https://lgnadalete.site/moodle-fatec-sjc/pluginfile.php/199/mod_assign/intro/ajRkW.png">
 
 Exercício 2 - Seu Astolfo recentemente adquiriu uma rede de supermercados e contratou a Você S.A., empresa especializada no desenvolvimento de soluções informatizadas, para implementar uma prova de conceito referente ao seu domínio de compras.
 
@@ -29,5 +28,3 @@ Para isso ele considerou as seguintes regras como sendo suas necessidades:
     As abstrações de item de compra e lista de compra deverão respeitar uma interface comum
 
 Dadas as necessidades do Seu Astolfo e assumindo-se que todas as classes possuem métodos getter e setter (usar Lombok ou gerá-las através da IDE), vamos ajudar o Seu Astolfo a implementar as abstrações representadas no diagrama de classes abaixo e a lógica necessária para atender tais necessidades. Mãos à obra!
-
-<img src = "https://lgnadalete.site/moodle-fatec-sjc/pluginfile.php/199/mod_assign/intro/picture1.png">
